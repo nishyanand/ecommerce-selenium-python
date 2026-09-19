@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTest artifacts
+.pytest_cache/
+
+# Test reports & execution evidence
+reports/
+screenshots/
+logs/
+
+# Environments & IDEs
+.env
+.venv/
+venv/
+ENV/
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary / learning scripts – not part of Capstone
+basic_automation.py
+inspect_website.py
+selenium_fundamentals.py
+verify_setup.py
+tmp/
+tmp_cookie_inspect.py

@@ -1,0 +1,24 @@
+{
+  "valid_user": {
+    "email": "capstone_student_2026@gmail.com",
+    "password": "Password123"
+  },
+  "invalid_user": {
+    "email": "invalid_test_user_99@test.com",
+    "password": "WrongPassword123",
+    "expected_error": "Warning: No match for E-Mail Address and/or Password."
+  },
+  "product": {
+    "name": "MacBook",
+    "model": "Product 16",
+    "initial_quantity": "1",
+    "updated_quantity": "2",
+    "unit_price": "$602.00",
+    "initial_total": "$602.00",
+    "updated_total": "$1,204.00"
+  },
+  "nonexistent_product": {
+    "name": "NonExistentItem999",
+    "expected_message": "There is no product that matches the search criteria."
+  }
+}
