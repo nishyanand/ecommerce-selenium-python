@@ -10,6 +10,9 @@ Encapsulates:
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from utils.logger import get_logger
+logger = get_logger(__name__)
 
 
 class CartPage:
