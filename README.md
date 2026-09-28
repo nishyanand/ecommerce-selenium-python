@@ -1,5 +1,11 @@
 # E‑Commerce Selenium Automation Demo
 
+## Project Demonstration
+
+A complete video demonstration of the Capstone project is available here:
+
+[▶️ Watch Project Demonstration](https://drive.google.com/file/d/1HOzH6s1NBQOu0Jy1SWX3N437EdP6aQFp/view?usp=sharing)
+
 ## Overview
 A lightweight Selenium automation suite that validates key e‑commerce workflows on the public **TutorialsNinja** demo site.
 
